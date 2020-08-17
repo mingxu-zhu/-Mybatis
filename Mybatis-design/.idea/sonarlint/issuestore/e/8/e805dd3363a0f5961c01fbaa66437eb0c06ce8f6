@@ -1,0 +1,18 @@
+
+\
+java:S2259 "@A "NullPointerException" could be thrown; "in" is nullable here.(€¶º‡ýÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(³Íœ»ûÿÿÿÿ
+P	java:S125"<This block of commented-out lines of code should be removed.(¿¤ä	
+V	java:S125]"<This block of commented-out lines of code should be removed.(…éñûÿÿÿÿ
+W	java:S125ª"<This block of commented-out lines of code should be removed.(áæéýÿÿÿÿ
+a	java:S112ž"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112j"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a
+java:S11927"FDefine a constant instead of duplicating this literal "value" 4 times.(½ýØ„üÿÿÿÿ
+I
+java:S2755("3Disable access to external entities in XML parsing.(ž©›ï
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ÇôŒ•ÿÿÿÿÿ
+J
+java:S2755ƒ"3Disable access to external entities in XML parsing.(ž©›ï
